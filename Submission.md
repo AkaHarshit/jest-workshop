@@ -44,8 +44,7 @@ Ensures that coupons work regardless of letter casing so that users typing `save
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No)  
 Yes, tests pass locally and the workflow is set up to run `npm test` on GitHub Actions.
-- GitHub Actions Run URL:  
-Not available yet (repository not provided in this environment).
+- GitHub Actions Run URL:  https://github.com/AkaHarshit/jest-workshop/actions/runs/21825605329
 
 ---
 
